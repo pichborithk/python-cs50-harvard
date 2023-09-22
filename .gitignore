@@ -1,0 +1,33 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# misc
+.DS_Store
+.vscode/*
+!.vscode/extensions.json
+local_settings.py
+
+# log & debug 
+logs
+*.log
+pip-log.txt
+pip-delete-this-directory.txt
+
+# local env files
+.env*.local
+.env
+*.local
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# prisma
+prisma/migrations/*
+
+# PyCharm
+.idea/
