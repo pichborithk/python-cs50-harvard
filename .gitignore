@@ -31,3 +31,7 @@ prisma/migrations/*
 
 # PyCharm
 .idea/
+
+# Final Project Slide and Video
+*.pptx
+*.mov
